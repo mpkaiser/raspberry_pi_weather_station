@@ -1,7 +1,7 @@
 # raspberry_pi_weather_station
 Raspberry Pi Weather Station
 
-This repository contains the requsite python files I used to create my raspberry pi weather station.  All hardware used in this build is listed below.  You will also need items like solder and soldering iron which are not included below.
+This repository contains the requisite python files I used to create my raspberry pi weather station.  All hardware used in this build is listed below.  You will also need items like solder and soldering iron which are not included below.
 
 Hardware (most, if not all, items can be purchased on Amazon.  I bought some items on Amason and some from my local Micro Center)
   Raspberry Pi 4 Model B 4GB
